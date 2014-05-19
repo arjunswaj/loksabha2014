@@ -11,7 +11,7 @@ import java.util.StringTokenizer;
 
 public class DataConsolidator {
 
-  public static final String CONSOLIDATED_REPORT = "001 Consolidated_Report.csv";
+  public static final String CONSOLIDATED_REPORT = "001_Consolidated_Report.csv";
   public int recordNo = 0;
   
   public void migrateData() {
