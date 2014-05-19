@@ -69,9 +69,9 @@ public class DataConsolidator {
       String row = constituencyFile.readLine();
       while (null != (row = constituencyFile.readLine())) {
         StringTokenizer st = new StringTokenizer(row, ",");
-        String candidate = st.nextToken();
-        String party = st.nextToken();
-        String votes = st.nextToken();
+        String candidate = st.nextToken().trim();
+        String party = st.nextToken().trim();
+        String votes = st.nextToken().trim();
         recordNo += 1;
         bwReportFile.write(String.valueOf(recordNo));
         bwReportFile.write(",");
