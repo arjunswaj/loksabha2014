@@ -6,6 +6,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Locale;
 import java.util.StringTokenizer;
 
 public class DataConsolidator {
@@ -74,13 +75,13 @@ public class DataConsolidator {
         recordNo += 1;
         bwReportFile.write(String.valueOf(recordNo));
         bwReportFile.write(",");
-        bwReportFile.write(state);
+        bwReportFile.write(state.toUpperCase(Locale.US));
         bwReportFile.write(",");
-        bwReportFile.write(constituency);
+        bwReportFile.write(constituency.toUpperCase(Locale.US));
         bwReportFile.write(",");
-        bwReportFile.write(candidate);
+        bwReportFile.write(candidate.toUpperCase(Locale.US));
         bwReportFile.write(",");
-        bwReportFile.write(party);
+        bwReportFile.write(party.toUpperCase(Locale.US));
         bwReportFile.write(",");
         bwReportFile.write(votes);
         bwReportFile.write("\n");
