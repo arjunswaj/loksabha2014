@@ -1854,7 +1854,7 @@ ID,STATE,CONSTITUENCY,CANDIDATE,PARTY,VOTES
 1853,Madhya Pradesh,JABALPUR,DR. DHAI AKSHAR (RAKESH SONKAR),Independent,2007
 1854,Madhya Pradesh,JABALPUR,DIGVIJAY SINGH (SENIOR JOURNLIST),Bhartiya Shakti Chetna Party,1852
 1855,Madhya Pradesh,JABALPUR,MALKHAN PATEL,Independent,1562
-1856,Madhya Pradesh,JABALPUR,ER. PRAVIN GAJBHIYE "DADA",Bahujan Mukti Party,1412
+1856,Madhya Pradesh,JABALPUR,ER. PRAVIN GAJBHIYE DADA,Bahujan Mukti Party,1412
 1857,Madhya Pradesh,JABALPUR,None of the Above,None of the Above,7888
 1858,Madhya Pradesh,MANDLA,FAGGAN SINGH KULASTE,Bharatiya Janata Party,585720
 1859,Madhya Pradesh,MANDLA,OMKAR SINGH MARKAM,Indian National Congress,475251
@@ -1870,11 +1870,11 @@ ID,STATE,CONSTITUENCY,CANDIDATE,PARTY,VOTES
 1869,Madhya Pradesh,BALAGHAT,BODHSINGH BHAGAT,Bharatiya Janata Party,480594
 1870,Madhya Pradesh,BALAGHAT,HINA LIKHIRAM KAWRE,Indian National Congress,384553
 1871,Madhya Pradesh,BALAGHAT,ANUBHA MUNJARE,Samajwadi Party,99392
-1872,Madhya Pradesh,BALAGHAT,"YOGESH NANAJI SAMRITE",Bahujan Samaj Party,46345
+1872,Madhya Pradesh,BALAGHAT,YOGESH NANAJI SAMRITE,Bahujan Samaj Party,46345
 1873,Madhya Pradesh,BALAGHAT,ASHOK KUMAR MASIH,Communist Party of India,20297
 1874,Madhya Pradesh,BALAGHAT,SMT. HIRASAN UIKEY,Gondvana Gantantra Party,15801
 1875,Madhya Pradesh,BALAGHAT,JABALPUR HIGH COURT ADVOCATE AND WRITER SUKHARAM ASTKAR LANJI,Independent,11767
-1876,Madhya Pradesh,BALAGHAT,"SANDEEP SONI",Independent,10444
+1876,Madhya Pradesh,BALAGHAT,SANDEEP SONI,Independent,10444
 1877,Madhya Pradesh,BALAGHAT,U. K. CHOUDHARY (MUNNA BHAIYA),Aam Aadmi Party,9898
 1878,Madhya Pradesh,BALAGHAT,SHANKAR KANSRE LODHI (SAMAJ SEWAK),Independent,6374
 1879,Madhya Pradesh,BALAGHAT,LAXMINARAYAN DEHARIYA,Bahujan Mukti Party,4427
@@ -1922,7 +1922,7 @@ ID,STATE,CONSTITUENCY,CANDIDATE,PARTY,VOTES
 1921,Madhya Pradesh,CHHINDWARA,SUBHASH SHUKLA,Samajwadi Party,2035
 1922,Madhya Pradesh,CHHINDWARA,None of the Above,None of the Above,25499
 1923,Madhya Pradesh,HOSHANGABAD,UDAY PRATAP SINGH,Bharatiya Janata Party,669128
-1924,Madhya Pradesh,HOSHANGABAD,DEVENDRA PATEL "GUDDU BHAIYA",Indian National Congress,279168
+1924,Madhya Pradesh,HOSHANGABAD,DEVENDRA PATEL GUDDU BHAIYA,Indian National Congress,279168
 1925,Madhya Pradesh,HOSHANGABAD,MAYA VISHWAKARMA,Aam Aadmi Party,17837
 1926,Madhya Pradesh,HOSHANGABAD,PRADEEP AHIRWAR,Bahujan Samaj Party,14154
 1927,Madhya Pradesh,HOSHANGABAD,Devendra Patel urf Gudda Bhaiyya,Independent,13412
@@ -2095,7 +2095,7 @@ ID,STATE,CONSTITUENCY,CANDIDATE,PARTY,VOTES
 2094,Madhya Pradesh,KHANDWA,ZIAUDDIN INAMDAR,Bahujan Mukti Party,1075
 2095,Madhya Pradesh,KHANDWA,None of the Above,None of the Above,17149
 2096,Madhya Pradesh,BETUL,JYOTI DHURVE,Bharatiya Janata Party,643651
-2097,Madhya Pradesh,BETUL,AJAY SHAH "MAKRAI",Indian National Congress,315037
+2097,Madhya Pradesh,BETUL,AJAY SHAH MAKRAI,Indian National Congress,315037
 2098,Madhya Pradesh,BETUL,RAJESH SARIYAM,Aam Aadmi Party,20627
 2099,Madhya Pradesh,BETUL,SOHAN LAL UIKEY,Bahujan Samaj Party,16461
 2100,Madhya Pradesh,BETUL,BHUPENDRA SINGH UIKEY,Independent,12933
@@ -5797,7 +5797,7 @@ ID,STATE,CONSTITUENCY,CANDIDATE,PARTY,VOTES
 5796,Uttar Pradesh,Pratapgarh,ASIF NIZAMUDDIN SIDDIQUE,Bahujan Samaj Party,207567
 5797,Uttar Pradesh,Pratapgarh,RAJKUMARI RATNA SINGH,Indian National Congress,138620
 5798,Uttar Pradesh,Pratapgarh,PRAMOD KUMAR SINGH PATEL,Samajwadi Party,120107
-5799,Uttar Pradesh,Pratapgarh,ASHOK SHUKLA " SENANI",Aam Aadmi Party,9983
+5799,Uttar Pradesh,Pratapgarh,ASHOK SHUKLA  SENANI,Aam Aadmi Party,9983
 5800,Uttar Pradesh,Pratapgarh,SANTOSH KUMAR SINGH,All India Trinamool Congress,6309
 5801,Uttar Pradesh,Pratapgarh,HARIVANSH,Independent,5618
 5802,Uttar Pradesh,Pratapgarh,RAM SEWAK,Bahujan Mukti Party,4207
@@ -5936,7 +5936,7 @@ ID,STATE,CONSTITUENCY,CANDIDATE,PARTY,VOTES
 5935,Uttar Pradesh,Hamirpur,KUNWAR PUSHPENDRA SINGH CHANDEL,Bharatiya Janata Party,453884
 5936,Uttar Pradesh,Hamirpur,BISHAMBHAR PRASAD NISHAD,Samajwadi Party,187096
 5937,Uttar Pradesh,Hamirpur,RAKESH KUMAR GOSWAMI,Bahujan Samaj Party,176356
-5938,Uttar Pradesh,Hamirpur,PRITAM SINGH LODHI "KISAAN",Indian National Congress,78229
+5938,Uttar Pradesh,Hamirpur,PRITAM SINGH LODHI KISAAN,Indian National Congress,78229
 5939,Uttar Pradesh,Hamirpur,VIMLESH,Independent,23137
 5940,Uttar Pradesh,Hamirpur,ATUL KUMAR PRAJAPATI,Aam Aadmi Party,9663
 5941,Uttar Pradesh,Hamirpur,AVINASH KUMAR MISHRA,All India Trinamool Congress,6297
@@ -6084,7 +6084,7 @@ ID,STATE,CONSTITUENCY,CANDIDATE,PARTY,VOTES
 6083,Uttar Pradesh,Bahraich,SADHVI SAVITRI BAI FOOLE,Bharatiya Janata Party,432392
 6084,Uttar Pradesh,Bahraich,SHABBIR AHMAD,Samajwadi Party,336747
 6085,Uttar Pradesh,Bahraich,DR.VIJAY KUMAR,Bahujan Samaj Party,96904
-6086,Uttar Pradesh,Bahraich,"COMANDO" KAMAL KISHOR,Indian National Congress,24421
+6086,Uttar Pradesh,Bahraich,COMANDO KAMAL KISHOR,Indian National Congress,24421
 6087,Uttar Pradesh,Bahraich,JAGAT RAM,Aam Aadmi Party,8319
 6088,Uttar Pradesh,Bahraich,RAM NARESH,Independent,5826
 6089,Uttar Pradesh,Bahraich,RAMASHANKER GOND,Jai Hind Samaj Party,5735
@@ -6157,7 +6157,7 @@ ID,STATE,CONSTITUENCY,CANDIDATE,PARTY,VOTES
 6156,Uttar Pradesh,Domariyaganj,RAVI KUMAR,Samyak Parivartan Party,2535
 6157,Uttar Pradesh,Domariyaganj,None of the Above,None of the Above,6775
 6158,Uttar Pradesh,Basti,HARISH CHANDRA ALIAS HARISH DWIVEDI,Bharatiya Janata Party,357680
-6159,Uttar Pradesh,Basti,BRIJ KISHOR SINGH "DIMPAL",Samajwadi Party,324118
+6159,Uttar Pradesh,Basti,BRIJ KISHOR SINGH DIMPAL,Samajwadi Party,324118
 6160,Uttar Pradesh,Basti,RAM PRASAD CHAUDHARY,Bahujan Samaj Party,283747
 6161,Uttar Pradesh,Basti,AMBIKA SINGH,Indian National Congress,27673
 6162,Uttar Pradesh,Basti,ANAND RAJPAL,Aam Aadmi Party,8407
@@ -6338,7 +6338,7 @@ ID,STATE,CONSTITUENCY,CANDIDATE,PARTY,VOTES
 6337,Uttar Pradesh,Ghosi,HARINATH,Naitik Party,1786
 6338,Uttar Pradesh,Ghosi,None of the Above,None of the Above,4457
 6339,Uttar Pradesh,Salempur,RAVINDRA KUSHAWAHA,Bharatiya Janata Party,392213
-6340,Uttar Pradesh,Salempur,RAVI SHANKER SINGH"PAPPU",Bahujan Samaj Party,159871
+6340,Uttar Pradesh,Salempur,RAVI SHANKER SINGHPAPPU,Bahujan Samaj Party,159871
 6341,Uttar Pradesh,Salempur,HARIBANSH SAHAI KUSHWAHA,Samajwadi Party,159688
 6342,Uttar Pradesh,Salempur,OM PRAKASH RAJBHAR,Suheldev Bhartiya Samaj Party,66084
 6343,Uttar Pradesh,Salempur,DR.BHOLA PANDEY,Indian National Congress,41890
@@ -7533,7 +7533,7 @@ ID,STATE,CONSTITUENCY,CANDIDATE,PARTY,VOTES
 7532,Jharkhand,Ranchi,RAJENDRA SINGH MUNDA,Communist Party of India (Marxist),10178
 7533,Jharkhand,Ranchi,AMANULLAH,Aam Aadmi Party,8497
 7534,Jharkhand,Ranchi,KAFILUR RAHMAN,Independent,4696
-7535,Jharkhand,Ranchi,YUGESHWAR MARAR "DEEN",Manav Mukti Morcha,4409
+7535,Jharkhand,Ranchi,YUGESHWAR MARAR DEEN,Manav Mukti Morcha,4409
 7536,Jharkhand,Ranchi,MAN SINGH MARDI,Jharkhand Party (Naren),4240
 7537,Jharkhand,Ranchi,RAM LAL MAHTO,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),4190
 7538,Jharkhand,Ranchi,SURESH TOPPO,Jharkhand Disom Party,4085
@@ -8391,7 +8391,7 @@ ID,STATE,CONSTITUENCY,CANDIDATE,PARTY,VOTES
 8390,Bihar,Siwan,NARAD PNDIT,Jai Prakash Janata Dal,3250
 8391,Bihar,Siwan,NAGENDRA TIWARI,Loktantrik Janata Party (Secular),2611
 8392,Bihar,Siwan,None of the Above,None of the Above,21409
-8393,Bihar,Maharajganj,JANARDAN SINGH "SIGRIWAL",Bharatiya Janata Party,320753
+8393,Bihar,Maharajganj,JANARDAN SINGH SIGRIWAL,Bharatiya Janata Party,320753
 8394,Bihar,Maharajganj,PRABHU NATH SINGH,Rashtriya Janata Dal,282338
 8395,Bihar,Maharajganj,MANORANJAN SINGH,Janata Dal (United),149483
 8396,Bihar,Maharajganj,BRINDA PATHAK,Independent,17186
